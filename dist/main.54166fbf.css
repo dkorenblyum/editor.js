@@ -1,0 +1,36 @@
+body {
+  background: #e9e9e9;
+  height: 100%;
+  padding: 3em;
+  font-family: "Montserrat";
+}
+
+#editorjs {
+  background: white;
+}
+#editorjs .cdx-marker {
+  background: rgba(245, 235, 111, 0.29);
+  padding: 3px 0;
+}
+
+.save-button {
+  background: #00aeff;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  text-transform: uppercase;
+  padding: 1em;
+  margin-top: 2em;
+}
+
+.inline-code {
+  background: rgba(251, 241, 241, 0.78);
+  color: #C44545;
+  padding: 4px 6px;
+  border-radius: 2px;
+  margin: 0 2px;
+  font-family: Menlo, Monaco, Consolas, Courier New, monospace;
+  font-size: 0.9em;
+}
+
+/*# sourceMappingURL=/main.54166fbf.css.map */
